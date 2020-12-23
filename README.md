@@ -23,7 +23,7 @@ The idea of this small bot is to automate the check in process. To achieve that,
   
 ### ⚙️ Setup the bot :
 Head up to the `src` file, edit the config.json.
-- **discord_webhook** : If you don't know what a webhook is [click here](https://support.discord.com/hc/fr/articles/228383668-Utiliser-les-Webhooks).
+- **discord_webhook** : If you don't know what a webhook is, [click here](https://support.discord.com/hc/fr/articles/228383668-Utiliser-les-Webhooks).
 -  **email** : the one of your account
 -  **password** : the one of your account
 -  **retry_delay** : correspond to the delay in milliseconds (ms) that the bot will wait before refreshing while monitoring the check-ins.
