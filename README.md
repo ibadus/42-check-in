@@ -29,6 +29,6 @@ Head up to the `src` file, edit the config.json.
 -  **retry_delay** : correspond to the delay in milliseconds (ms) that the bot will wait before refreshing while monitoring the check-ins.
 - in `src\Bash Script` modify the `scripth.sh` by adding the path to the `src` after the `cd` command. You'll be now able to run the bot when starting your pc + execute it more easily.
 
-Know you're ready to start the bot with `node main`
+💹 Now you're ready to start the bot with `node main`
 
 💌 *If you have any questions/feedback about this project feel free to DM me on discord: ibadus#0300*
