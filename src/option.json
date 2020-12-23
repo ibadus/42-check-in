@@ -1,0 +1,6 @@
+{
+    "discord_webhook": "",
+    "email": "",
+    "password": "",
+    "retry_delay": 3000
+}

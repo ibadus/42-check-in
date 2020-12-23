@@ -1,0 +1,24 @@
+{
+  "name": "42-monitor",
+  "version": "1.0.0",
+  "description": "monitor for 42 check-in",
+  "main": "main.js",
+  "scripts": {
+    "test": "none"
+  },
+  "author": "ibadus#0300",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "cheerio": "^1.0.0-rc.3",
+    "const": "^1.0.0",
+    "jsdom": "^16.4.0",
+    "moment": "^2.29.1",
+    "puppeteer": "^5.5.0",
+    "query-string": "^6.13.6",
+    "querystring": "^0.2.0",
+    "request": "^2.88.2",
+    "sound-play": "^1.0.5",
+    "webhook-discord": "^3.7.7"
+  }
+}
