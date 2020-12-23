@@ -1,4 +1,4 @@
-# 42-Monitor
+# 42 Check-in Bot
 
 ## 💬 Introduction
 
