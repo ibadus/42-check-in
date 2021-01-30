@@ -11,7 +11,7 @@ Do not use this project for malicious purposes, this wasn't the purpose.
 
 ## 🤔 How does it work ? 
 
-⚠️ THIS BOT ONLY WORKS ON PARIS CHECKIN FOR THE MOMENT ⚠️
+⚠️ THIS BOT ONLY WORKS ON PARIS CHECKIN AT THE MOMENT ⚠️
 
 The idea of this small bot is to automate the check in process. To achieve that, the bot will try to login with the informations you provided with puppeteer using chromium (i did this because i didn't wanted to waste time on the session cookie with requests). After successfully logged in the bot will retrieve the session cookie. After retrieving this cookie, the bot will check every X time if there is a new check-in available. If so the bot will send you a discord webhook (+ a nice sound), will open a chromium window and will login and try to sign in the check-in for you !
 
