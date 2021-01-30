@@ -271,7 +271,7 @@ function sign_up(task) {
     })
 }
 
-// PLEASE LET THIS DUNCTONS AS IT IS
+// PLEASE LET THIS FUNCTONS AS IT IS
 function send_webhook() {
     const Hook = new webhook.Webhook(options.discord_webhook);
     const message = new webhook.MessageBuilder()
