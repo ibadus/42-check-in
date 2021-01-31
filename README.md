@@ -6,7 +6,7 @@ First of all, this project was aimed to help me joining the 42 school. I decided
 
 I tried to comment the code to help people comprehend the process of this small bot.
 
-Do not use this project for malicious purposes, this wasn't the purpose.
+Do not use this project for malicious purposes.
 
 
 ## 🤔 How does it work ? 
