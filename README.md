@@ -1,5 +1,10 @@
 # 42 Check-in Bot
 
+```
+Status :
+Working ✔️
+```
+
 ## 💬 Introduction
 
 First of all, this project was aimed to help me joining the 42 school. I decided to code this small project after missing check-ins multiple times. Please bare in mind this project was coded in few hours after missing a check-in, so there might be some more optimized way to do it but i didn't wanted to waste a lot of time on it.
