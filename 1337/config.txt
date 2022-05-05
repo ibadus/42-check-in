@@ -1,0 +1,4 @@
+[config]
+discord_webhook=
+email=
+password=
