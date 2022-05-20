@@ -86,7 +86,7 @@ def checkAvailabilty() -> bool:
 		if (response.url != "https://candidature.1337.ma/meetings"):
 			print("Not logged in")
 			return False
-		if (response.text.find("De nouveaux creneaux ouvriront prochainement") != -1):
+		if (response.text.find("places libres") != -1):
 			return False
 		return True
 	except Exception as e:
