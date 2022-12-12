@@ -12,7 +12,7 @@
  * 
  *                        AUTHOR : Ibadus#0300
  * 
- * Use option.json to login into your account to be notified for new check-in
+ * Use config.json to login into your account to be notified for new check-in
  * You can use the bash script to start the monitor more easily / or run it when starting your PC
  * 
  */
@@ -30,7 +30,7 @@ const path = require('path');
 const soundPath = path.join(__dirname, 'success.mp3')
 
 // PARAMS
-const options = require('./option.json');
+const options = require('./config.json');
 const { request } = require('http');
 const UserA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36";
 const login_url = "https://admissions.42.fr/users/sign_in";
